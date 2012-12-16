@@ -13,7 +13,7 @@ import bussiness.Staff;
 
 /**
  * 停车场经理测试类
- * @author zjw
+ * @author zjw  dupeng
  *2012-12-15
  *2012-12-20
  */
@@ -113,7 +113,7 @@ public class ManagerTest {
 		ParkMagService parkMagService=new ParkMagService();
 		//取车
 		boolean tag=parkMagService.pickUpCar(manager1.getParks(),"京 A0001");
-		Assert.assertEquals(tag,true);
+		Assert.assertEquals(tag,false);
 	}
 	/**
 	 * 测试车辆出停车场

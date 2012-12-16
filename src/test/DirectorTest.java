@@ -12,7 +12,7 @@ import bussiness.Staff;
 
 /**
  * 停车场主管测试类
- * @author zjw
+ * @author zjw tony
  * 2012-12-16
  * 2012-12-19
  */

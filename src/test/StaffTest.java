@@ -11,7 +11,7 @@ import bussiness.ParkMagService;
 import bussiness.Staff;
 /**
  * 停车仔测试类
- * @author zjw
+ * @author zjw dupeng
  *2012-12-12
  *2012-12-18
  */
@@ -93,7 +93,7 @@ public class StaffTest {
 		ParkMagService parkMagService=new ParkMagService();
 		//取车
 		boolean tag=parkMagService.pickUpCar(staff1.getParks(),"京 A0001");
-		Assert.assertEquals(tag,true);
+		Assert.assertEquals(tag,false);
 		//输出停车场信息
 		//System.out.println("-----------------------停车场信息-取车（凭证不对）---------------------------");
 		//parkMagService.printStaffInfo(staff1);
