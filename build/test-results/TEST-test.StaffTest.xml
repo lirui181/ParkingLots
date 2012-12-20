@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" hostname="Tony-PC" name="test.StaffTest" tests="5" time="0.006" timestamp="2012-12-21T15:29:08">
+  <properties />
+  <testcase classname="test.StaffTest" name="testPrintInfo" time="0.001" />
+  <testcase classname="test.StaffTest" name="testCarOut2" time="0.0" />
+  <testcase classname="test.StaffTest" name="testCarOut1" time="0.001" />
+  <testcase classname="test.StaffTest" name="testCarIn" time="0.0" />
+  <testcase classname="test.StaffTest" name="testCarin2" time="0.0" />
+  <system-out><![CDATA[-----------------------停车仔查看停车场信息---------------------------
+停车场编号：P001
+	车位数：30
+	空位数：26
+停车场编号：P002
+	车位数：50
+	空位数：40
+停车场编号：P003
+	车位数：70
+	空位数：57
+Total车位数：150
+Total空位数：123
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

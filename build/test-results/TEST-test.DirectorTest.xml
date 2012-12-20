@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" hostname="Tony-PC" name="test.DirectorTest" tests="1" time="0.085" timestamp="2012-12-21T15:29:08">
+  <properties />
+  <testcase classname="test.DirectorTest" name="testPrintInfo" time="0.023" />
+  <system-out><![CDATA[-----------------------停车场主管查看经理、停车仔和停车场信息---------------------------
+停车场经理编号：M001
+	停车仔编号：S001
+		停车场编号：P001
+			车位数：30
+			空位数：26
+		停车场编号：P002
+			车位数：50
+			空位数：40
+		停车场编号：P003
+			车位数：70
+			空位数：58
+		Total车位数：150
+		Total空位数：124
+	停车仔编号：S002
+		停车场编号：P004
+			车位数：100
+			空位数：75
+		停车场编号：P005
+			车位数：85
+			空位数：85
+		Total车位数：185
+		Total空位数：160
+	停车场编号：P006
+		车位数：45
+		空位数：40
+	停车场编号：P007
+		车位数：200
+		空位数：153
+	Total车位数：335
+	Total空位数：284
+停车场经理编号：M002
+	停车仔编号：S003
+		停车场编号：P008
+			车位数：70
+			空位数：65
+		停车场编号：P009
+			车位数：125
+			空位数：78
+		停车场编号：P010
+			车位数：85
+			空位数：64
+		Total车位数：280
+		Total空位数：207
+	停车仔编号：S004
+		停车场编号：P011
+			车位数：60
+			空位数：35
+		停车场编号：P012
+			车位数：85
+			空位数：85
+		Total车位数：145
+		Total空位数：120
+	停车场编号：P013
+		车位数：120
+		空位数：101
+	Total车位数：425
+	Total空位数：327
+Total车位数：1125
+Total空位数：905
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
